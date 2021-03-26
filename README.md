@@ -1,13 +1,13 @@
 # Introduction
 
-You can choose any of the tasks below
+You can choose any of the tasks below. The solution should be available in GIT. 
 
 
 ## REST Api Client
 
 Task is to design and create a program that:
-* Gets the data from provided by a  REST API.
-  For example you can use any of the services below: 
+* Fetches the data from provided by a  REST API.
+  You can use any of the services below: 
   - https://randomuser.me/api/
   - https://yesno.wtf/api
 
@@ -25,11 +25,11 @@ Create a program that exposes endpoint for processing financial data.
 * The output is a net profit for all the years. 
 * The cost of adding a transaction is 0.39% of value of the transaction or 3 PLN when the calculated cost is less than 3 PLN. 
 * The transaction cost should be substracted from the total profit.
-* When there is more that one buy transaction, when you sell the same instrument you should follow the (FIFO)[https://bossa.pl/edukacja/podatek-gieldowy/metoda-fifo] rule.
+* When there is more that one buy transaction, when you sell the same instrument you should follow the [FIFO](https://bossa.pl/edukacja/podatek-gieldowy/metoda-fifo) rule.
 
 ### Example input:
 
-```
+```json
     [
       {
         "TIME": "18.11.2019 11:58:05",
@@ -200,7 +200,7 @@ Create a program that exposes endpoint for processing financial data.
 ### Example output:
 
 
-```
+```json
     [
       {
         "year": 2019,
