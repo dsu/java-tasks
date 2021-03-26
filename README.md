@@ -1,6 +1,6 @@
 # Introduction
 
-You can choose any of the tasks below. The solution should be available in GIT. 
+You can choose any of the tasks below. The solution should be available in Github/bitbucket. 
 
 
 ## REST Api Client
