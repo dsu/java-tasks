@@ -3,7 +3,7 @@
 You can choose any of the tasks below. The solution should be available in Github/bitbucket. 
 
 
-## REST Api Client
+## 1. REST Api Client
 
 Task is to design and create a program that:
 * Fetches the data from provided by a  REST API.
@@ -18,7 +18,7 @@ You should consider:
 * handling cases when API doesn't work correctly 
 
 
-## Financial service
+## 2. Financial service
 
 Create a program that exposes endpoint for processing financial data.
 * Input is a list of transactions Buy (K) or sell (S).
