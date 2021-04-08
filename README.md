@@ -25,7 +25,7 @@ Create a program that exposes endpoint for processing financial data.
 * The output is a net profit for all the years. 
 * The cost of adding a transaction is 0.39% of value of the transaction or 3 PLN when the calculated cost is less than 3 PLN. 
 * The transaction cost should be substracted from the total profit.
-* When there is more that one buy transaction, when you sell the same instrument you should follow the [FIFO](https://bossa.pl/edukacja/podatek-gieldowy/metoda-fifo) rule.
+* When there is more that one buy transaction, when you sell the same instrument you should follow the [FIFO](https://bossa.pl/edukacja/podatek-gieldowy/metoda-fifo) rule. Make sure that you understand what it is before your start coding.
 
 ### Example input:
 
@@ -197,8 +197,7 @@ Create a program that exposes endpoint for processing financial data.
 
 ```
 
-### Example output:
-
+### Example output (results doesn't have to be exact):
 
 ```json
     [
@@ -222,6 +221,10 @@ Create a program that exposes endpoint for processing financial data.
         "code": "D",
         "profit": 2003.52
       }
-      [....]
+     // ...
     ]
 ```
+
+You should consider: 
+* testing
+* simple design
