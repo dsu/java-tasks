@@ -37,7 +37,7 @@ Create a program that exposes endpoint for processing financial data.
         "MARKET": "WWA-GPW",
         "K/S": "S",
         "VOLUME": 10,
-        "PRICE": 1.415499,
+        "PRICE": 1.41,
         "CURRENCY": "PLN"
       },
       {
@@ -46,7 +46,7 @@ Create a program that exposes endpoint for processing financial data.
         "MARKET": "WWA-GPW",
         "K/S": "K",
         "VOLUME": "1,500",
-        "PRICE": 1.435577,
+        "PRICE": 1.43,
         "CURRENCY": "PLN"
       },
       {
@@ -55,7 +55,7 @@ Create a program that exposes endpoint for processing financial data.
         "MARKET": "WWA-GPW",
         "K/S": "S",
         "VOLUME": 46,
-        "PRICE": 91.94003,
+        "PRICE": 91.94,
         "CURRENCY": "PLN"
       },
       {
@@ -64,7 +64,7 @@ Create a program that exposes endpoint for processing financial data.
         "MARKET": "WWA-GPW",
         "K/S": "S",
         "VOLUME": 1000,
-        "PRICE": 4.10999,
+        "PRICE": 4.10,
         "CURRENCY": "PLN"
       },
       {
@@ -73,7 +73,7 @@ Create a program that exposes endpoint for processing financial data.
         "MARKET": "WWA-GPW",
         "K/S": "S",
         "VOLUME": 1980,
-        "PRICE": 16.9337,
+        "PRICE": 16.93,
         "CURRENCY": "PLN"
       },
       {
@@ -82,7 +82,7 @@ Create a program that exposes endpoint for processing financial data.
         "MARKET": "WWA-GPW",
         "K/S": "K",
         "VOLUME": 46,
-        "PRICE": 86.516102,
+        "PRICE": 86.51,
         "CURRENCY": "PLN"
       },
       {
@@ -91,7 +91,7 @@ Create a program that exposes endpoint for processing financial data.
         "MARKET": "WWA-GPW",
         "K/S": "K",
         "VOLUME": 6500,
-        "PRICE": 4.075834,
+        "PRICE": 4.07,
         "CURRENCY": "PLN"
       },
       {
@@ -100,7 +100,7 @@ Create a program that exposes endpoint for processing financial data.
         "MARKET": "WWA-GPW",
         "K/S": "K",
         "VOLUME": 1300,
-        "PRICE": 15.811425,
+        "PRICE": 15.81,
         "CURRENCY": "PLN"
       },
       {
@@ -109,7 +109,7 @@ Create a program that exposes endpoint for processing financial data.
         "MARKET": "WWA-GPW",
         "K/S": "S",
         "VOLUME": "1,500",
-        "PRICE": 4.293191,
+        "PRICE": 4.29,
         "CURRENCY": "PLN"
       },
       {
@@ -127,7 +127,7 @@ Create a program that exposes endpoint for processing financial data.
         "MARKET": "WWA-GPW",
         "K/S": "K",
         "VOLUME": 2100,
-        "PRICE": 4.00233,
+        "PRICE": 4.00,
         "CURRENCY": "PLN"
       },
       {
@@ -136,7 +136,7 @@ Create a program that exposes endpoint for processing financial data.
         "MARKET": "WWA-GPW",
         "K/S": "K",
         "VOLUME": 500,
-        "PRICE": 4.136068,
+        "PRICE": 4.13,
         "CURRENCY": "PLN"
       },
       {
@@ -145,7 +145,7 @@ Create a program that exposes endpoint for processing financial data.
         "MARKET": "WWA-GPW",
         "K/S": "S",
         "VOLUME": 6500,
-        "PRICE": 4.91089,
+        "PRICE": 4.91,
         "CURRENCY": "PLN"
       },
       {
@@ -154,7 +154,7 @@ Create a program that exposes endpoint for processing financial data.
         "MARKET": "WWA-GPW",
         "K/S": "K",
         "VOLUME": 680,
-        "PRICE": 15.76123,
+        "PRICE": 15.76,
         "CURRENCY": "PLN"
       },
       {
@@ -163,7 +163,7 @@ Create a program that exposes endpoint for processing financial data.
         "MARKET": "WWA-GPW",
         "K/S": "K",
         "VOLUME": 6500,
-        "PRICE": 4.768525,
+        "PRICE": 4.76,
         "CURRENCY": "PLN"
       },
       {
@@ -172,7 +172,7 @@ Create a program that exposes endpoint for processing financial data.
         "MARKET": "WWA-GPW",
         "K/S": "K",
         "VOLUME": 3300,
-        "PRICE": 4.563971,
+        "PRICE": 4.56,
         "CURRENCY": "PLN"
       },
       {
@@ -190,7 +190,7 @@ Create a program that exposes endpoint for processing financial data.
         "MARKET": "WWA-GPW",
         "K/S": "K",
         "VOLUME": 530,
-        "PRICE": 50.117269,
+        "PRICE": 50.11,
         "CURRENCY": "PLN"
       }
     ]
@@ -221,21 +221,7 @@ Create a program that exposes endpoint for processing financial data.
         "year": 2019,
         "code": "D",
         "profit": 2003.52
-      },
-      {
-        "year": 2019,
-        "code": "E",
-        "profit": 45.05
-      },
-      {
-        "year": 2019,
-        "code": "E",
-        "profit": 387.76
-      },
-      {
-        "year": 2018,
-        "code": "F",
-        "profit": 680
       }
+      [....]
     ]
 ```
